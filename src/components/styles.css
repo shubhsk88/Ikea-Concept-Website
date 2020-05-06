@@ -1,0 +1,7 @@
+.container {
+  height: 90vh;
+  /* max-width: 1024px; */
+  width: 80%;
+  background: url("../images/lexie-barnhorn-HxmBvIedr6k-unsplash.jpg") no-repeat;
+  background-size: cover;
+}

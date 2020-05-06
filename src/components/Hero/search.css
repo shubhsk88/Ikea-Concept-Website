@@ -1,0 +1,21 @@
+.app {
+  background-color: white;
+  display: flex;
+  font-size: 1.8rem;
+  align-items: center;
+  color: black;
+  width: 56rem;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.search {
+  flex: 1;
+  padding: 2rem 2rem;
+  border: none;
+}
+.search:focus {
+  outline: none;
+}
+.icon {
+  margin: 0 2rem;
+}

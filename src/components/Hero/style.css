@@ -1,0 +1,24 @@
+.hero {
+  width: 100%;
+  height: 80%;
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  font-size: 4rem;
+  color: #fff;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+.hero__text {
+  padding: 1rem 0;
+  color: white;
+  text-align: center;
+}
+.hero__text a {
+  color: var(--main-bg-color);
+  text-decoration: underline;
+}
